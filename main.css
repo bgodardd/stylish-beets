@@ -2,45 +2,55 @@ html {
   background-color: #c9b5ae;
   font-family: "PT Serif", serif;
 }
+
 h1 {
   font-family: "PT Sans", sans-serif;
 }
+
 a {
   color: #8f2440;
   text-decoration: none;
 }
+
 nav ol {
   list-style-type: none;
 }
+
 a:hover {
   color: #3f1622;
   text-decoration: underline;
 }
+
 figcaption {
   text-align: center;
   font-style: italic;
   font-size: 1rem;
 }
+
 h2 {
   font-family: "PT Sans", sans-serif;
 }
+
 blockquote {
   font-style: italic;
   font-size: 2rem;
   line-height: normal;
 }
+
 footer cite {
   font-size: 0.75rem;
 }
 .varieties {
   list-style-type: lower-greek;
 }
+
 strong {
   font-weight: normal;
 }
 .information {
   font-style: italic;
 }
+
 img {
   width: 100%;
 }
